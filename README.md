@@ -1,15 +1,15 @@
-### Hi there 👋 I'm Sebastian Roger Loguzzo...
+## Hi there 👋 I'm Sebastian Roger Loguzzo...
 At Tech lead and developer and person I'm learning all time a new feature...
 
-# Vitto
- 🌎 Vitto 🌎 
-He is my enterign world, is my baby boy and the most difficult project to code.
+## 🌎 Vitto 🌎 
+He is my all world, is my baby boy and the most difficult project to code.
 ---
 
 ## 🧩 Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -22,8 +22,8 @@ He is my enterign world, is my baby boy and the most difficult project to code.
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
 ---
+
 ## 📫 Get in touch:
 <div id="badges">
   <a href="https://www.linkedin.com/in/sebastian-loguzzo-5247761b/">
@@ -36,8 +36,8 @@ He is my enterign world, is my baby boy and the most difficult project to code.
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
-
 ---
+
 ## 🌱 My stacks:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sebasl87&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasl87&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
