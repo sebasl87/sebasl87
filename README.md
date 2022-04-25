@@ -2,7 +2,7 @@
 At Tech lead and developer and person I'm learning all time a new feature...
 
 ## 🌎 Vitto 🌎 
-He is my all world, is my baby boy and the most difficult project to code.
+### He is my all world, is my baby boy and the most difficult project to code.
 ---
 
 ## 🧩 Languages and Tools :
@@ -22,7 +22,7 @@ He is my all world, is my baby boy and the most difficult project to code.
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
+
 
 ## 📫 Get in touch:
 <div id="badges">
@@ -36,7 +36,7 @@ He is my all world, is my baby boy and the most difficult project to code.
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
----
+
 
 ## 🌱 My stacks:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sebasl87&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
